@@ -6,7 +6,7 @@ Thungr (ᚦᚢᛝᚱ in runes) is a Old Norse for 'heavy'. It is a 5th Edition D
 
 Very little backstory is required of the characters. They will awaken in a crashed spaceship with no recollection of who they are or how they got here. They will know their names and capabilities, and will have a deep sense of purpose. They know they are part of a team and that they are guardians, sent out to confront... something. They are here for a reason, but they don't know what that reason is.
 
-Characters will need to be made with the standard D&D rules. That said, they can easily be reskinned to make them more epic and techy. Think outside of the box and see how the rules can be applied. Want to play a cyborg warrior? No problem. Your weapons might be part of your body, but they still work the same. Looking to play a Hanover Fiste like character who gets big and strong? Sounds like a Barbarian to me!
+Characters will be made with core classes and races from the Player's Handbook. That said, they can easily be reskinned to make them more epic and techy. Think outside of the box and see how the rules can be applied. Want to play a cyborg warrior? No problem. Your weapons might be part of your body, but they still work the same. Looking to play a Hanover Fiste like character who gets big and strong? Sounds like a Barbarian to me!
 
 ## Rules
 
