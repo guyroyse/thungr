@@ -10,11 +10,11 @@ These describe an navigable piece of terrain in the world such as the Misty Moun
 2. Check for random encounters as per the card.
 3. Check to see if characters are lost.
 4. If they are lost, go to step 1 and repeat until they get where they are going or are dead.
-5. If they ar enot lost, then they have arrived.
+5. If they are not lost, then they have arrived.
 
 When searching for a *site* the characters haven't been to before, the rolls are made with disadvantage. Maps of a *region* provide advantage when navigating and negate the disadvantage of seeking an unfamiliar site.
 
-A **critical success** means the journey takes half the time. A **critical failure** results in some sort of bad outcome or event left to the wiles of the DM.
+A **critical success** means the journey takes half the time. A **critical failure** results in some sort of bad outcome or event left to DM fiat.
 
 ## Sites
 

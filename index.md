@@ -1,14 +1,12 @@
 # ᚦᚢᛝᚱ
 
-Thungr (ᚦᚢᛝᚱ in runes) is a metal fantasy campaign.
+Thungr (ᚦᚢᛝᚱ in runes) is a Old Norse for 'heavy'. It is a 5th Edition D&D campaign with a theme, story, and setting, inspired by heavy metal music, culture, and artwork. It is a mixture of sci-fi and fantasy with an emphasis on the epic where the gods, demons, and other elder beings are iconic characters from metal music. Expect to see Eddie the Destroy, The Four Horsemen, and Dio.
 
-## Overview
+## Character Concepts
 
-- Mixed setting of scifi and fantasy.
-- Inspired by heavy metal music, culture, and artwork.
-- Epic in scope with larger than life characters, locations, and artifacts.
-- Gods, demons, and other elder beings are iconic characters from metal music.
-- Players are bad but not the bad guys.
+Very little backstory is required of the characters. They will awaken in a crashed spaceship with no recollection of who they are or how they got here. They will know their names and capabilities, and will have a deep sense of purpose. They know they are part of a team and that they are guardians, sent out to confront... something. They are here for a reason, but they don't know what that reason is.
+
+Characters will need to be made with the standard D&D rules. That said, they can easily be reskinned to make them more epic and techy. Think outside of the box and see how the rules can be applied. Want to play a cyborg warrior? No problem. Your weapons might be part of your body, but they still work the same. Looking to play a Hanover Fiste like character who gets big and strong? Sounds like a Barbarian to me!
 
 ## Rules
 

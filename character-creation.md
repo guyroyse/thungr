@@ -1,12 +1,6 @@
 # Character Creation
 
-The game world for Thungr is epic. It is inspired by heavy metal music and the associated artwork. It blends science fiction and fantasy elements to increase the _coolness_ of the characters and the setting.
-
-## Character Concepts
-
-Very little backstory is required of the characters. They will awaken in a crashed spaceship with no recollection of who they are or how they got here. They will know their names and capabilities, and will have a deep sense of purpose. They are the heroes, they are a team, and there is evil to confront. But while they are here for a reason, they don't know what that reason is.
-
-Characters will need to be made with the standard D&D rules. That said, they can easily be reskinned to make them more epic and techy. Think outside of the box and see how the rules can be applied. Want to play a cyborg warrior? No problem. Your weapons might be part of your body, but they still work the same.
+The game world for Thungr is epic. It is inspired by heavy metal music and the associated artwork. It blends science fiction and fantasy elements to increase the _coolness_ of the characters and the setting. You will want to design your characters accordingly.
 
 ## Starting Level, Classes, and Races
 
@@ -14,7 +8,7 @@ You start at 1st level. Any race or class is permissible. Be creative and reskin
 
 ## Skills
 
-All the normal skills are availabe. However, as the characters know nothing about the world they are about to explore, history will not be useful at all.
+All the normal skills are available. However, as the characters know nothing about the world they are about to explore, history will not be useful at all.
 
 ## Rolling Abilities
 
@@ -45,13 +39,13 @@ Weapons deserve special attention as this is a science fantasy settings and ther
 
 ### Standard Weapons
 
-Standard weapons are just that, standard. They work as written in the rules. A shortbow is a standarad weapon that does 1d6 piercing damage. These can be reskinned. For example, a shortbow could be skinned as a shotgun and still do 1d6 piercing damage.
+Standard weapons are just that, standard. They work as written in the rules. A short bow is a standard weapon that does 1d6 piercing damage. These can be reskinned. For example, a short bow could be skinned as a shotgun and still do 1d6 piercing damage.
 
 You can also change the damage type with a standard weapon. Change the damage on the shotgun to slashing and you've got flechette gun. Change it to fire and you have a flamer. Change it to force or radiant and you have a blaster.
 
 ### Enhanced Weapons
 
-Enhanced weapons are enhanced with yogstones. They can be skinned just like stnadard weapons. But the yogstones make them something more. In addition to a standard weapon you can:
+Enhanced weapons are enhanced with yogstones. They can be skinned just like standard weapons. But the yogstones make them something more. In addition to a standard weapon you can:
 
 _Add a 1d6 of damage of any type to the weapon. So, the aforementioned blaster could do 1d6 force and 1d6 radiant damage._
 
@@ -59,7 +53,7 @@ OR
 
 _For ranged weapons, eliminate the need to supply ammunition and remove the two-handed trait from weapons that have the heavy trait. So, the flamer would still only do 1d6 fire damage but it wouldn't require ammunition and it would become a one-handed weapon._
 
-Yogstones which are consumed over time. Every time a critical failure is rolled, the yogstone looses a hit point. When the hit points are gone, the yogstone goes dim and no longer powers the weapon.
+Yogstones are consumed over time. Every time a critical failure is rolled, the yogstone looses a hit point. When the hit points are gone, the yogstone goes dim and no longer powers the weapon.
 
 ### Sample Weapons
 
@@ -67,17 +61,17 @@ Get as creative with your gear as you'd like. Here are some examples:
 
 - **Longsword**: It's just a longsword. It does 1d8 slashing and doesn't require a yogstone.
 
-- **Carbine**: It's a two-handed short-barrelled gun. It's really a shortbow.
+- **Carbine**: It's a two-handed short-barrelled gun. It's really a short bow.
 
-- **Blaster**: Pistol that fires bolts of force. It's really a shortbow that does 1d6 force damage. It requires a yogstone to power it, doesn't require ammunition, and is a one-handed weapon.
+- **Blaster**: Pistol that fires bolts of force. It's really a short bow that does 1d6 force damage. It requires a yogstone to power it, doesn't require ammunition, and is a one-handed weapon.
 
 - **Blast Rifle**: Rifle that fires bolts of force. It's really a longbow that does 1d8 force damage. It requires a yogstone to power it, doesn't require ammunition and, remains a two-handed weapon as it is heavy.
 
 - **Flaming Sword**: A sword that is engulfed in flames. It's really a longsword that does 1d8 slashing damage and 1d6 fire damage. It requires a yogstone.
 
-- **Electric Slugthrower**: Shoots bullets that have small but potent electrical charges in them. It's really a shortbow that does 1d6 piercing damage and an extra 1d6 lightning damage. It requires ammunition and a yogstone to power it.
+- **Electric Slugthrower**: Shoots bullets that have small but potent electrical charges in them. It's really a short bow that does 1d6 piercing damage and an extra 1d6 lightning damage. It requires ammunition and a yogstone to power it.
 
-- **Disruptor Sword**: A blade of black energy that rots flesh. It's really a shortsword that does 2d6 necrotic damage. It requires a yogstone.
+- **Disruptor Sword**: A blade of black energy that rots flesh. It's really a short sword that does 2d6 necrotic damage. It requires a yogstone.
 
 ## Spells
 
@@ -110,11 +104,11 @@ You can cast any spell you have prepared, even if you have cast it before. You a
 
 Casting spells requires yogstones and a roll. This roll is against the current target number. It is:
 
-_1d20 + the spellcasting ability + the character's proficiency bonus_
+_1d20 + the spell-casting ability + the character's proficiency bonus_
 
 - On a **success**, you cast the spell and use it up.
 - On a **failure**, you do not cast the spell but do not expend it.
-- On a **criticl success**, you cast the spell to double effect and do not expend it.
+- On a **critical success**, you cast the spell to double effect and do not expend it.
 - On a **critical failure**, you do not cast the spell and you do not expend it. But, bad stuff happens and your yogstone is reduced by one hit point.
 
 ### Cantrips
@@ -123,7 +117,7 @@ Cantrips are learned and cast as described in the core rules.
 
 ### Reskinning Spells
 
-This is totally fine. Want to be able to cast a frostball intead of a fireball? Just change the damage type and do it!
+This is totally fine. Want to be able to cast a frostball instead of a fireball? Just change the damage type and do it!
 
 ## Levels and Experience
 
