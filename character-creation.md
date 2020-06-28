@@ -20,7 +20,7 @@ Since there are science fiction elements to this game, there are some additional
 
 **Vehicles**: Proficiency with land and water vehicles extends to trucks, airboats, motorcycles, and all the crazy variants that might be encountered. Your character can also be proficient with aerospace vehicles, allowing them to pilot aircraft and spacecraft.
 
-**Tools**: Proficiency with mechanic's tools allow you to repair machines, such as the aforementioned vehicles.
+**Tools**: Proficiency with *mechanic's tools* allow you to repair machines, such as the aforementioned vehicles. Proficiency with *hacker's tools* allows you to hack, infiltrate, and extract information from computers.
 
 ## Backgrounds
 
@@ -38,6 +38,15 @@ You don't. Pick one of the following sets of abilities and assign as desired.
 |  13 +1   |  12 +1   |  12 +1   |  13 +1   |
 |  11  0   |  11  0   |  11  0   |  11  0   |
 |   9 -1   |   9 -1   |  10  0   |   7 -2   |
+
+## Speed
+
+Your speed is measured in zones (read more about zones in the [house rules](house-rules)) and you have separate numbers for a Move and a Dash. For most characters, their Move is 1 and their Dash is 2. However, if your characters has an enhanced speed (like a monk) then apply the following rules:
+
+- If you have a speed of 40' or more, you have a Move of 2 and a Dash of 3
+- If you have a speed of 55' or more, you have a Move of 2 and a Dash of 4.
+
+If you're faster than this, you're a monster.
 
 ## Equipment
 
@@ -76,9 +85,9 @@ _Add a 1d6 of damage of any type to the weapon. So, the aforementioned blaster c
 
 OR
 
-_For ranged weapons, eliminate the need to supply ammunition and remove the two-handed trait from weapons that have the heavy trait. So, the flamer would still only do 1d6 fire damage but it wouldn't require ammunition and it would become a one-handed weapon._
+_For ranged weapons, eliminate the need to supply ammunition and remove the two-handed trait from weapons that do not have the heavy trait. So, the flamer would still only do 1d6 fire damage but it wouldn't require ammunition and it would become a one-handed weapon._
 
-Yogstones are consumed over time. Every time a critical failure is rolled, the yogstone looses a hit point. When the hit points are gone, the yogstone goes dim and no longer powers the weapon.
+Yogstones are consumed over time. Every time a critical failure is rolled, the yogstone looses a charge. When the charges are gone, the yogstone goes dim and no longer powers the weapon.
 
 ### Sample Weapons
 
@@ -100,65 +109,6 @@ Get as creative with your gear as you'd like. Here are some examples:
 
 ## Spells
 
-Spells follow the model in set forth in 5E Hardcore Mode by Runehammer Games. This model eliminates slots and variable spell effects.
+Yogstones are the divine or arcane focus for all spellcasting. You can [read more about this](house-rules) in the house rules.
 
-All casters:
-
-- Have access to spells of level equal to their character level. So a 3rd-level wizard has access to fireball.
-- For spells with variable effects, they are cast at their native level. So, that 3rd-level fireball will always do 8d6 damage.
-
-### Learning Spells
-
-**Clerics**, **druids**, **paladins**, and **rangers** do not have to learn spells. They know all the spells available to their level. Yes, this means a 5th-level paladin has access to all their spells.
-
-**Bards**, **sorcerers**, and **wizards** learn three spells of their level at each level. That means a 1st-level wizard knows three 1st-level spells and a 3rd-level wizard knows three 1st-level spells, three 2nd-level spells, and three 3rd-level spells.
-
-**Warlocks** learn a single spell of their level at each level but keep all of their invocations.
-
-### Preparing Spells
-
-**Clerics**, **druids**, **paladins**, and **rangers** prepare a number of spells equal to their level + 2 spells each day.
-
-**Bards**, **sorcerers**, and **wizards** prepare a number of spells equal to twice their level each day.
-
-**Warlocks** prepare a number of spells equal to their level each day. Since a warlock only knows a number of spells equal to their level, this means a warlock always has all their spells prepared.
-
-### Casting Spells
-
-You can cast any spell you have prepared, even if you have cast it before. You are limited to the number of spells you have prepared. This means a 3rd-level cleric can cast 5 spells per day. Yes, this means that a 9th-level wizard can cast wish 18 times if she knows it an has it prepared.
-
-Casting spells requires yogstones and a roll. This roll is against the current target number. It is:
-
-_1d20 + the spell-casting ability + the character's proficiency bonus_
-
-- On a **success**, you cast the spell and use it up.
-- On a **failure**, you do not cast the spell but do not expend it.
-- On a **critical success**, you cast the spell to double effect and do not expend it.
-- On a **critical failure**, you do not cast the spell and you do not expend it. But, bad stuff happens and your yogstone is reduced by one hit point.
-
-### Cantrips
-
-Cantrips are learned and cast as described in the core rules.
-
-### Reskinning Spells
-
-This is totally fine. Want to be able to cast a frostball instead of a fireball? Just change the damage type and do it!
-
-## Levels and Experience
-
-The magic system results in some classes being more powerful than others. This is fine, they will just advance slower. The table below shows the experience required to level for each class through 10th level.
-
-| Class     |  2  |   3  |   4  |   5  |  6  |  7  |  8  |  9  |  10 |
-|:----------|:---:|:----:|:----:|:----:|:---:|:---:|:---:|:---:|:---:|
-| Barbarian | 200 |  500 | 1800 | 4200 |  6k | 11k | 18k | 24k | 30k |
-| Bard      | 200 |  600 | 2000 | 4500 |  7k | 11k | 16k | 21k | 25k |
-| Cleric    | 300 |  900 | 2700 | 6500 | 14k | 23k | 34k | 48k | 64k |
-| Druid     | 300 |  900 | 2300 | 6500 | 14k | 23k | 31k | 40k | 50k |
-| Fighter   | 250 |  700 | 2200 | 5000 |  8k | 12k | 18k | 24k | 30k |
-| Monk      | 250 |  700 | 2200 | 5000 |  8k | 12k | 18k | 24k | 30k |
-| Paladin   | 300 |  900 | 2700 | 6500 | 14k | 23k | 34k | 44k | 56k |
-| Ranger    | 300 | 1000 | 2500 | 6800 | 15k | 24k | 34k | 44k | 50k |
-| Rogue     | 200 |  600 | 2000 | 4500 |  7k | 11k | 16k | 22k | 28k |
-| Sorcerer  | 400 | 1200 | 3000 | 7500 | 16k | 25k | 38k | 52k | 68k |
-| Warlock   | 400 | 1200 | 3000 | 7500 | 16k | 25k | 38k | 52k | 68k |
-| Wizard    | 400 | 1200 | 3000 | 7500 | 16k | 25k | 38k | 52k | 68k |
+Feel free to create spell variations by changing the damage type. Want to be able to cast a frostball instead of a fireball? Have at it. Just change the damage type and you've created a new spell. Yes, this means clerics have more spells to choose from.

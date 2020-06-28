@@ -16,7 +16,6 @@ All of these together are likely to have balance issues and odd or poorly though
 
 - [Character Creation](character-creation)
 - [House Rules](house-rules)
-- [Regions, Sites, Rooms, and Zones](cards)
 
 ## Almanac
 
