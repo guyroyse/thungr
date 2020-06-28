@@ -78,7 +78,7 @@ Weapons deserve special attention as this is a science fantasy settings and ther
 
 Standard weapons are just that, standard. They work as written in the rules. A short bow is a standard weapon that does 1d6 piercing damage. These can be reskinned. For example, a short bow could be skinned as a shotgun and still do 1d6 piercing damage.
 
-You can also change the damage type with a standard weapon. Change the damage on the shotgun to slashing and you've got flechette gun. Change it to fire and you have a flamer. Change it to force or radiant and you have a blaster.
+You can also change the damage type with a standard weapon. Change the damage on the shotgun to slashing and you've got a flechette gun. Change it to fire and you have a flamer. Change it to force or radiant and you have a blaster.
 
 ### Enhanced Weapons
 

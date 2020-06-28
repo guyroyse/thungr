@@ -10,7 +10,7 @@ Some actions can be *hard* or *easy*. *Hard* tasks add three to the target. *Eas
 
 ## Timers
 
-A visible 1d4 is rolled turning encounters. On the DM's turn, it turned down by one. Once it is removed, something happens to escalate the current situation.
+A visible 1d4 is rolled during encounters. On the DM's turn, it turned down by one. Once it is removed, something happens to escalate the current situation.
 
 ## Initiative
 
@@ -39,8 +39,8 @@ To move across regions, exit a region, or move between sites within a region:
 
 1. Expend the number of days defined for the region (probably a roll) to find a known *site* within an *region* or to traverse an *region*.
 2. Check for random encounters as per the region.
-3. Check to see if characters are lost.
-4. If they are lost, go to step 1 and repeat until they get where they are going or are dead.
+3. Roll a Survival check against the target to see the if characters are lost.
+4. If they file, they are are lost. Go to step 1 and repeat until they get where they are going or are dead.
 5. If they are not lost, then they have arrived.
 
 When searching for a *site* the characters haven't been to before, rolls are made with disadvantage. Maps of a *region* provide advantage when navigating and negate the disadvantage of seeking an unfamiliar site.
@@ -51,11 +51,11 @@ A **critical success** means the journey takes half the time. A **critical failu
 
 Yogstones are the divine or arcane focus for all spellcasting. They are required for all spells and all casters, even if they don't have a material component cost. However, they do not need to be held or manipulated. They just need to be on your person. So, if a verbal-only spell is cast, the yogstone can stay in your pocket. But if you don't have it, the verbal only spell is not able to be cast. For a yogstones to work as a focus, it must have a least one charge left.
 
-When casting a spell, if you must roll to cast—say for a ranged spell attack—and get a critical failure, one charge of the yogstone is consumed.
+When casting a spell that requires a roll—say for a ranged spell attack—and get a **critical failure**, one charge of the yogstone is consumed. When someone makes a save against your spell and gets a gets a **critical success** one charge of the yogstone is also consumed.
 
 ### Yogstones and Spell Slots
 
-Spells can be enhanced by using a higher-level slot to cast them. This is the stock rule in the Player's Handbook. However, you can also use a yogstone to enhance increase the casting level of a spell without using a higher-level slot. For each charge expended, increase the spell level by one.
+Spells can be enhanced by using a higher-level slot to cast them. This is the stock rule in the Player's Handbook. However, you can also use a yogstone to increase the casting level of a spell without using a higher-level slot. For each charge expended, increase the spell level by one.
 
 - All charges must come from the same yogstone.
 - You do not have to be able to casts spells of that level.
@@ -63,7 +63,7 @@ Spells can be enhanced by using a higher-level slot to cast them. This is the st
 
  For example, a 5th level wizard casting fireball could spend 5 charges to make it an 8th-level fireball. They could spend all 10 to make it is 13th-level fireball.
 
-You can also use the technique to cast spells when you don't want to use a slot. Want to cast a 3rd-level spell? Expend 3 charges. Want to enhance it? Spend more!
+You can also use this technique to cast spells when you don't have or don't want to use a slot. Want to cast a 3rd-level spell? Expend 3 charges. Want to enhance it? Spend more!
 
 Doing either of these requires a roll against the current target. Roll 1d20 + your spellcasting ability + your proficiency bonus.
 
