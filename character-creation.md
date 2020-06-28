@@ -10,6 +10,22 @@ You start at 1st level. Any race or class is permissible. Be creative and reskin
 
 All the normal skills are available. However, as the characters know nothing about the world they are about to explore, history will not be useful at all.
 
+## Languages
+
+Use the standard array of languages. If you're reskinning a race to be something else, change the starting languages as appropriate.
+
+## Additional Proficiencies
+
+Since there are science fiction elements to this game, there are some additional things that proficiencies can do.
+
+**Vehicles**: Proficiency with land and water vehicles extends to trucks, airboats, motorcycles, and all the crazy variants that might be encountered. Your character can also be proficient with aerospace vehicles, allowing them to pilot aircraft and spacecraft.
+
+**Tools**: Proficiency with mechanic's tools allow you to repair machines, such as the aforementioned vehicles.
+
+## Backgrounds
+
+Feel free to get creative with this. Swap out the tool and skill proficiencies as makes sense for your character. Do not take any of the equipment.
+
 ## Rolling Abilities
 
 You don't. Pick one of the following sets of abilities and assign as desired.
@@ -27,13 +43,22 @@ You don't. Pick one of the following sets of abilities and assign as desired.
 
 Characters start with no currency and the following items:
 
-- an enhanced primary weapon
-- a standard secondary weapon
+- an enhanced primary weapon (and 50 rounds of ammunition for it)
+- a standard secondary weapon (and 20 rounds of ammunition for it)
 - medium or lighter armor
-- 2 potions of healing
-- 3 days of rations
-- 3 days of water
-- 3 hearts of yogstones
+- clothing
+- pouch containing:
+  - 2 potions of healing
+  - 3 yogstones
+- backpack containing:
+  - bedroll
+  - canteen
+  - mess kit
+  - glow globe
+  - healer's kit
+  - 5 days of rations
+  - fire starter
+- one set of tools, a kit, a gaming set, or a musical instrument
 
 Weapons deserve special attention as this is a science fantasy settings and there are blasters and light sabers alongside longbows and battle axes. We could detail a bunch of weapons, but that would be tedious and time consuming. So, we'll just get creative and make our own weapons by reskinning the existing ones to make cool new ones.
 
