@@ -8,7 +8,7 @@ You start at 1st level. Any race or class is permissible. Be creative and reskin
 
 ## Skills
 
-All the normal skills are available. However, as the characters know nothing about the world they are about to explore, history will not be useful at all.
+All the normal skills are available. However, as the characters know nothing about the world they are about to explore, History will not be very useful.
 
 ## Languages
 
@@ -56,9 +56,11 @@ Characters start with no currency and the following items:
 - a standard secondary weapon (and 20 rounds of ammunition for it)
 - medium or lighter armor
 - clothing
+
 - pouch containing:
   - 2 potions of healing
   - 3 yogstones
+
 - backpack containing:
   - bedroll
   - canteen
@@ -67,6 +69,7 @@ Characters start with no currency and the following items:
   - healer's kit
   - 5 days of rations
   - fire starter
+
 - one set of tools, a kit, a gaming set, or a musical instrument
 
 Weapons deserve special attention as this is a science fantasy settings and there are blasters and light sabers alongside longbows and battle axes. We could detail a bunch of weapons, but that would be tedious and time consuming. So, we'll just get creative and make our own weapons by reskinning the existing ones to make cool new ones.
